@@ -70,4 +70,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Tools to apply security hardening
 
+- [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+- [Hardentools](https://github.com/securitywithoutborders/hardentools) - for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability.
+
 # Books
