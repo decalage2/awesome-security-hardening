@@ -62,6 +62,11 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### LDAP
 
+## Authentication - Passwords
+
+- [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
+- [NIST SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
+
 # Tools
 
 ## Tools to check security hardening
