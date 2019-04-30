@@ -30,6 +30,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 ### SUSE
 
 - [SUSE Linux Enterprise Server 12 SP4 Security Guide](https://www.suse.com/documentation/sles-12/singlehtml/book_security/book_security.html)
+- [SUSE Linux Enterprise Server 12 Security and Hardening Guide](https://www.suse.com/documentation/sles-12/book_hardening/data/book_hardening.html)
 
 ### Ubuntu
 
