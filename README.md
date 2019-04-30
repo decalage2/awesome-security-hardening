@@ -14,7 +14,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [CIS Benchmarks](https://learn.cisecurity.org/benchmarks) (registration required)
 - [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
 - [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
-- [DISA Security Technical Implementation Guides (STIGs)](https://iase.disa.mil/stigs/Pages/index.aspx)
+- [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://iase.disa.mil/stigs/Pages/index.aspx)
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 
@@ -45,6 +45,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 ## Network Devices
 
 - [NSA Harden Network Devices](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm) - very short but good summary
+- [DISA Layer 2 Switch SRG](http://iasecontent.disa.mil/stigs/zip/U_Layer_2_Switch_V1R3_SRG.zip)
 
 ## Virtualization - VMware
 
