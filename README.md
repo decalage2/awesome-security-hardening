@@ -44,6 +44,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Network Devices
 
+- [NSA Harden Network Devices](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm) - very short but good summary
+
 ## Virtualization - VMware
 
 - [VMware Security Hardening Guides](https://www.vmware.com/security/hardening-guides.html)
