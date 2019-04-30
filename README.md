@@ -26,6 +26,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 ### Red Hat Enterprise Linux - RHEL
 
 - [A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
+- [DISA STIGs RHEL](https://iase.disa.mil/stigs/os/unix-linux/Pages/red-hat.aspx)
 
 ### SUSE
 
