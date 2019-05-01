@@ -55,7 +55,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### Routers
 
-- [NSA - A Guide to Border Gateway Protocol (BGP) Best Practices](https://apps.nsa.gov/iaarchive/library/reports/a-guide-to-border-gateway-protocol-bgp-best-practices.cfm)
+- [NSA - A Guide to Border Gateway Protocol (BGP) Best Practices](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1)
 
 ## Virtualization - VMware
 
