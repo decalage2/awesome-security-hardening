@@ -110,7 +110,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Tools to check security hardening
 
-- [Lynis](https://cisofy.com/lynis/)
+- [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
+- [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
 
 ## Tools to apply security hardening
 
