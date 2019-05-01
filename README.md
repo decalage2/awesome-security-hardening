@@ -93,6 +93,11 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
 - [NIST SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 
+## Hardware - BIOS - UEFI
+
+- [NSA Info Sheet: UEFI Lockdown Quick Guidance (March 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf?v=1)
+- [NSA Tech Report: UEFI Defensive Practices Guidance (July 2017)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf?ver=2018-11-06-074836-090)
+
 # Tools
 
 ## Tools to check security hardening
