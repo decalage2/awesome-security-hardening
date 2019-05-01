@@ -47,8 +47,15 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Network Devices
 
-- [NSA Harden Network Devices](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm) - very short but good summary
-- [DISA Layer 2 Switch SRG](http://iasecontent.disa.mil/stigs/zip/U_Layer_2_Switch_V1R3_SRG.zip)
+- [NSA - Harden Network Devices](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm) - very short but good summary
+
+### Switches
+
+- [DISA - Layer 2 Switch SRG](http://iasecontent.disa.mil/stigs/zip/U_Layer_2_Switch_V1R3_SRG.zip)
+
+### Routers
+
+- [NSA - A Guide to Border Gateway Protocol (BGP) Best Practices](https://apps.nsa.gov/iaarchive/library/reports/a-guide-to-border-gateway-protocol-bgp-best-practices.cfm)
 
 ## Virtualization - VMware
 
