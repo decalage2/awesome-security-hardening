@@ -14,6 +14,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [CIS Benchmarks](https://learn.cisecurity.org/benchmarks) (registration required)
 - [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
 - [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
+- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://iase.disa.mil/stigs/Pages/index.aspx)
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
