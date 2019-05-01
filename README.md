@@ -40,6 +40,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Windows
 
+- [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+
 ## macOS
 
 ## Network Devices
