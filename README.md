@@ -70,6 +70,12 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
 - [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) - focused on crypto algorithms
 
+### TLS/SSL
+
+- [NIST SP800-52 Rev 1 - Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://www.nist.gov/publications/guidelines-selection-configuration-and-use-transport-layer-security-tls-implementations) (2014)
+- [ANSSI - Security Recommendations for TLS](https://www.ssi.gouv.fr/en/guide/security-recommendations-for-tls/)
+- [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
+
 ### Web Servers
 
 ### Mail Servers
