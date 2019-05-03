@@ -2,12 +2,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome security hardening guides, tools and other resources.
-This is work in progress: please contribute by forking, editing and sending pull requests.
+A collection of awesome security hardening guides, best practices, tools and other resources.
+This is work in progress: please contribute by forking, editing and sending pull requests. You may also send suggestions on Twitter to [@decalage2](https://twitter.com/decalage2), or use https://www.decalage.info/contact
 
 ------
 
-# Security Hardening Guides
+# Security Hardening Guides and Best Practices
 
 ## Hardening Guide Collections
 
