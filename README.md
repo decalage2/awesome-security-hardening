@@ -119,6 +119,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 - [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
+- [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
 
 ## Tools to apply security hardening
 
