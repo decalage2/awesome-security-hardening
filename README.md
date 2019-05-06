@@ -98,11 +98,13 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### DNS
 
+- [CMU SEI - Six Best Practices for Securing a Robust Domain Name System (DNS) Infrastructure](https://insights.sei.cmu.edu/sei_blog/2017/02/six-best-practices-for-securing-a-robust-domain-name-system-dns-infrastructure.html)
 - [NSA BIND 9 DNS Security](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/bind-9-dns-security.cfm) (2011)
 
 ### NTP
 
 - [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp-08](https://tools.ietf.org/html/draft-ietf-ntp-bcp-08) (Nov 2018)
+- [CMU SEI - Best Practices for NTP Services](https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html)
 
 ## Authentication - Passwords
 
