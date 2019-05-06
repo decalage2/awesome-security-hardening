@@ -123,15 +123,29 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ## Tools to check security hardening
 
+### GNU/Linux
+
 - [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
 - [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - oscap command line tool
 - [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
+- [Tiger - The Unix security audit and intrusion detection tool](https://www.nongnu.org/tiger/) (might be outdated)
+
+### Network Devices
+
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
+
+### TLS/SSL
+
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
 
 ## Tools to apply security hardening
 
+### GNU/Linux
+
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+
+### Windows
+
 - [Hardentools](https://github.com/securitywithoutborders/hardentools) - for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability.
 
 # Books
