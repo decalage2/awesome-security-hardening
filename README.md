@@ -16,6 +16,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
 - [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://iase.disa.mil/stigs/Pages/index.aspx)
+- [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 
@@ -123,6 +124,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 ## Tools to check security hardening
 
 - [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
+- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - oscap command line tool
+- [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
 
