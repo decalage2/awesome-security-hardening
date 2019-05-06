@@ -99,6 +99,10 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 - [NSA BIND 9 DNS Security](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/applications/bind-9-dns-security.cfm) (2011)
 
+### NTP
+
+- [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp-08](https://tools.ietf.org/html/draft-ietf-ntp-bcp-08) (Nov 2018)
+
 ## Authentication - Passwords
 
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
