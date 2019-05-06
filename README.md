@@ -106,6 +106,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 - [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp-08](https://tools.ietf.org/html/draft-ietf-ntp-bcp-08) (Nov 2018)
 - [CMU SEI - Best Practices for NTP Services](https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html)
+- [Linux.com - Arrive On Time With NTP -- Part 2: Security Options](https://www.linux.com/learn/arrive-time-ntp-part-2-security-options)
+- [Linux.com - Arrive On Time With NTP -- Part 3: Secure Setup](https://www.linux.com/learn/2017/2/arrive-time-ntp-part-3-secure-setup)
 
 ## Authentication - Passwords
 
