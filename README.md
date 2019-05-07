@@ -80,6 +80,11 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### Web Servers
 
+#### Apache Tomcat
+
+- [Apache Tomcat 9 Security Considerations](https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html) / [v8](https://tomcat.apache.org/tomcat-8.0-doc/security-howto.html) / [v7](https://tomcat.apache.org/tomcat-7.0-doc/security-howto.html)
+- [OWASP Securing tomcat](https://www.owasp.org/index.php/Securing_tomcat)
+
 ### Mail Servers
 
 ### FTP Servers
