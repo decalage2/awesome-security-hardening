@@ -84,6 +84,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 - [Apache Tomcat 9 Security Considerations](https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html) / [v8](https://tomcat.apache.org/tomcat-8.0-doc/security-howto.html) / [v7](https://tomcat.apache.org/tomcat-7.0-doc/security-howto.html)
 - [OWASP Securing tomcat](https://www.owasp.org/index.php/Securing_tomcat)
+- [How to get Tomcat 9 to work with authbind to bind to port 80](https://serverfault.com/questions/889122/how-to-get-tomcat-9-to-work-with-authbind-to-bind-to-port-80)
 
 #### Eclipse Jetty
 
