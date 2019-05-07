@@ -80,6 +80,12 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### Web Servers
 
+#### Apache HTTP Server
+
+- [Apache HTTP Server documentation - Security Tips](http://httpd.apache.org/docs/current/misc/security_tips.html)
+- [GeekFlare - Apache Web Server Hardening and Security Guide](https://geekflare.com/apache-web-server-hardening-security/)
+- [Apache Config - Apache Security Hardening Guide](https://www.apachecon.eu/)
+
 #### Apache Tomcat
 
 - [Apache Tomcat 9 Security Considerations](https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html) / [v8](https://tomcat.apache.org/tomcat-8.0-doc/security-howto.html) / [v7](https://tomcat.apache.org/tomcat-7.0-doc/security-howto.html)
