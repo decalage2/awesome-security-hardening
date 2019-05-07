@@ -80,6 +80,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### Web Servers
 
+- [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
+
 #### Apache HTTP Server
 
 - [Apache HTTP Server documentation - Security Tips](http://httpd.apache.org/docs/current/misc/security_tips.html)
