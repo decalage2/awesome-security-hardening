@@ -114,6 +114,10 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Linux.com - Arrive On Time With NTP -- Part 2: Security Options](https://www.linux.com/learn/arrive-time-ntp-part-2-security-options)
 - [Linux.com - Arrive On Time With NTP -- Part 3: Secure Setup](https://www.linux.com/learn/2017/2/arrive-time-ntp-part-3-secure-setup)
 
+### CUPS
+
+- [CUPS Server Security](https://www.cups.org/doc/security.html)
+
 ## Authentication - Passwords
 
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
