@@ -85,6 +85,11 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Apache Tomcat 9 Security Considerations](https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html) / [v8](https://tomcat.apache.org/tomcat-8.0-doc/security-howto.html) / [v7](https://tomcat.apache.org/tomcat-7.0-doc/security-howto.html)
 - [OWASP Securing tomcat](https://www.owasp.org/index.php/Securing_tomcat)
 
+#### Eclipse Jetty
+
+- [Eclipse Jetty - Configuring Security](https://www.eclipse.org/jetty/documentation/current/configuring-security.html)
+- [Jetty hardening](https://virgo47.wordpress.com/2015/02/07/jetty-hardening/) (2015)
+
 ### Mail Servers
 
 ### FTP Servers
