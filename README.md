@@ -82,6 +82,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ### Ubuntu
 
+- [Ubuntu documentation - Security](https://help.ubuntu.com/lts/serverguide/security.html.en)
+- [Ubuntu wiki - Security Hardening Features](https://wiki.ubuntu.com/Security/Features)
 
 ## Windows
 
