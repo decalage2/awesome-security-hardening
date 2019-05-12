@@ -230,7 +230,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 - [Hardentools](https://github.com/securitywithoutborders/hardentools) - for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability.
 - [Windows 10 Hardening](https://github.com/aghorler/Windows-10-Hardening) - A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible.
-- [HardeningAuditor] (https://github.com/cottinghamd/HardeningAuditor) - Scripts for comparing Microsoft Windows compliance with the ASD 1709 & Office 2016 Hardening Guides
+- [Hardening Auditor] (https://github.com/cottinghamd/HardeningAuditor) - Scripts for comparing Microsoft Windows compliance with the ASD 1709 & Office 2016 Hardening Guides
 - [Windows 10 Initial Setup Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 
 
