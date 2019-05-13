@@ -92,6 +92,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Microsoft - Windows 10 Enterprise Security](https://docs.microsoft.com/en-us/windows/security/)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
+- [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
 
 ## macOS
 
