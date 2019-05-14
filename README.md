@@ -71,6 +71,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 ## GNU/Linux
 
 - [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
 - [TecMint - 4 Ways to Disable Root Account in Linux](https://www.tecmint.com/disable-root-login-in-linux/)
@@ -246,6 +247,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### GNU/Linux
 
+- [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
 
 ### Windows
