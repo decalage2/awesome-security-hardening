@@ -20,6 +20,7 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [Switches](#switches)
     - [Routers](#routers)
   - [Virtualization - VMware](#virtualization---vmware)
+  - [Containers - Docker](#containers---docker)
   - [Services](#services)
     - [SSH](#ssh)
     - [TLS/SSL](#tlsssl)
@@ -45,13 +46,13 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [GNU/Linux](#gnulinux-1)
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
+    - [Docker](#docker)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-1)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
   - [Other Awesome Security Lists](#other-awesome-security-lists)
-
 
 ------
 
@@ -122,6 +123,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Virtualization - VMware
 
 - [VMware Security Hardening Guides](https://www.vmware.com/security/hardening-guides.html)
+
+## Containers - Docker
+
+- [How To Harden Your Docker Containers](https://www.secjuice.com/how-to-harden-docker-containers/)
+- [CIS Docker Benchmarks](https://www.cisecurity.org/benchmark/docker/) - registration required
 
 ## Services
 
@@ -242,6 +248,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
+
+### Docker
+
+- [Docker Bench for Security](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0.
 
 ## Tools to apply security hardening
 
