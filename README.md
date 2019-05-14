@@ -7,6 +7,7 @@ This is work in progress: please contribute by forking, editing and sending pull
 
 ------
 # Table of Contents
+
 - [Security Hardening Guides and Best Practices](#security-hardening-guides-and-best-practices)
   - [Hardening Guide Collections](#hardening-guide-collections)
   - [GNU/Linux](#gnulinux)
@@ -30,6 +31,7 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [Mail Servers](#mail-servers)
     - [FTP Servers](#ftp-servers)
     - [Database Servers](#database-servers)
+    - [Active Directory - ADFS](#active-directory---adfs)
     - [LDAP](#ldap)
     - [DNS](#dns)
     - [NTP](#ntp)
@@ -46,6 +48,8 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-1)
 - [Books](#books)
+- [Other Awesome Lists](#other-awesome-lists)
+  - [Other Awesome Security Lists](#other-awesome-security-lists)
 
 
 ------
@@ -94,6 +98,8 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
 - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
+
+See also [Active Directory - ADFS](#active-directory---adfs) below.
 
 ## macOS
 
@@ -160,6 +166,11 @@ This is work in progress: please contribute by forking, editing and sending pull
 ### FTP Servers
 
 ### Database Servers
+
+### Active Directory - ADFS
+
+- [adsecurity.org - Securing Microsoft Active Directory Federation Server (ADFS)](https://adsecurity.org/?p=3782)
+- [Microsoft - Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
 
 ### LDAP
 
