@@ -31,7 +31,8 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [Mail Servers](#mail-servers)
     - [FTP Servers](#ftp-servers)
     - [Database Servers](#database-servers)
-    - [Active Directory - ADFS](#active-directory---adfs)
+    - [Active Directory](#active-directory)
+    - [ADFS](#adfs)
     - [LDAP](#ldap)
     - [DNS](#dns)
     - [NTP](#ntp)
@@ -95,11 +96,13 @@ This is work in progress: please contribute by forking, editing and sending pull
 - [Microsoft - Windows security baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines)
 - [Microsoft - Windows Server Security | Assurance](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
 - [Microsoft - Windows 10 Enterprise Security](https://docs.microsoft.com/en-us/windows/security/)
+- [ACSC - Hardening Microsoft Windows 10, version 1709, Workstations](https://www.cyber.gov.au/publications/hardening-microsoft-windows-10-build-1709)
+- [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
 - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
 
-See also [Active Directory - ADFS](#active-directory---adfs) below.
+See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## macOS
 
@@ -167,7 +170,13 @@ See also [Active Directory - ADFS](#active-directory---adfs) below.
 
 ### Database Servers
 
-### Active Directory - ADFS
+### Active Directory
+
+- [Microsoft - Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+- ["Admin Free" Active Directory and Windows, Part 1- Understanding Privileged Groups in AD](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-1-understanding-privileged-groups-in-ad/)
+- ["Admin Free" Active Directory and Windows, Part 2- Protected Accounts and Groups in Active Directory](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-2-protected-accounts-and-groups-in-active-directory/)
+
+### ADFS
 
 - [adsecurity.org - Securing Microsoft Active Directory Federation Server (ADFS)](https://adsecurity.org/?p=3782)
 - [Microsoft - Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
