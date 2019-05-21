@@ -37,6 +37,7 @@ This is work in progress: please contribute by forking, editing and sending pull
     - [LDAP](#ldap)
     - [DNS](#dns)
     - [NTP](#ntp)
+    - [NFS](#nfs)
     - [CUPS](#cups)
   - [Authentication - Passwords](#authentication---passwords)
   - [Hardware - BIOS - UEFI](#hardware---bios---uefi)
@@ -213,6 +214,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CMU SEI - Best Practices for NTP Services](https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html)
 - [Linux.com - Arrive On Time With NTP -- Part 2: Security Options](https://www.linux.com/learn/arrive-time-ntp-part-2-security-options)
 - [Linux.com - Arrive On Time With NTP -- Part 3: Secure Setup](https://www.linux.com/learn/2017/2/arrive-time-ntp-part-3-secure-setup)
+
+### NFS
+
+- [Linux NFS-HOWTO - Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) - a good overview of NFS security issues and some mitigations
+- [A Guide to Securing Red Hat Enterprise Linux 7 - Securing NFS](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index#sec-Securing_NFS)
 
 ### CUPS
 
