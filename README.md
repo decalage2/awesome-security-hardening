@@ -225,7 +225,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### NFS
 
 - [Linux NFS-HOWTO - Security and NFS](https://www.tldp.org/HOWTO/NFS-HOWTO/security.html) - a good overview of NFS security issues and some mitigations
-- [A Guide to Securing Red Hat Enterprise Linux 7 - Securing NFS](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index#sec-Securing_NFS)
+- [Red Hat - A Guide to Securing Red Hat Enterprise Linux 7 - Securing NFS](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index#sec-Securing_NFS)
+- [Red Hat - RHEL7 Storage Administration Guide - Securing NFS](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/s1-nfs-security)
 - [NFSv4 without Kerberos and permissions](https://lists.debian.org/debian-user/2017/10/msg00476.html) - why NFSv4 without Kerberos does not provide security
 - [CertDepot - RHEL7: Use Kerberos to control access to NFS network shares](https://www.certdepot.net/rhel7-use-kerberos-control-access-nfs-network-shares/)
 
