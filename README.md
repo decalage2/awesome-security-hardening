@@ -62,7 +62,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ## Hardening Guide Collections
 
-- [CIS Benchmarks](https://learn.cisecurity.org/benchmarks) (registration required)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (registration required)
 - [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
 - [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
 - [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
@@ -74,6 +74,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 ## GNU/Linux
 
 - [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
+- [CIS Benchmark for Distribution Independent Linux](https://www.cisecurity.org/benchmark/distribution_independent_linux/)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
@@ -83,6 +84,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 - [A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
 - [DISA STIGs - Red Hat Enterprise Linux 7](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux) (2019)
+- [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
 - [nixCraft - How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
 
 ### SUSE
