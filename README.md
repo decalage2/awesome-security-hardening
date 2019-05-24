@@ -34,6 +34,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Database Servers](#database-servers)
     - [Active Directory](#active-directory)
     - [ADFS](#adfs)
+    - [Kerberos](#kerberos)
     - [LDAP](#ldap)
     - [DNS](#dns)
     - [NTP](#ntp)
@@ -191,6 +192,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [adsecurity.org - Securing Microsoft Active Directory Federation Server (ADFS)](https://adsecurity.org/?p=3782)
 - [Microsoft - Best practices for securing Active Directory Federation Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs)
+
+### Kerberos
+
+- [CIS MIT Kerberos 1.10 Benchmark](https://www.cisecurity.org/benchmark/mit_kerberos/) - 2012
 
 ### LDAP
 
