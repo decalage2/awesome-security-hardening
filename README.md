@@ -82,7 +82,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ### Red Hat Enterprise Linux - RHEL
 
-- [A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
+- [Red Hat - A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
 - [DISA STIGs - Red Hat Enterprise Linux 7](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux) (2019)
 - [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
 - [nixCraft - How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
