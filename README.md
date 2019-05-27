@@ -79,6 +79,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
 - [TecMint - 4 Ways to Disable Root Account in Linux](https://www.tecmint.com/disable-root-login-in-linux/)
+- [ERNW - IPv6 Hardening  Guide  for  Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
 
 ### Red Hat Enterprise Linux - RHEL
 
@@ -107,10 +108,13 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
 - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
+- [ERNW - IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
 
 See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## macOS
+
+- [ERNW - IPv6 Hardening Guide for OS-X](https://www.ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf)
 
 ## Network Devices
 
