@@ -137,6 +137,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Virtualization - VMware
 
 - [VMware Security Hardening Guides](https://www.vmware.com/security/hardening-guides.html)
+- [CIS VMware ESXi 6.5 Benchmark](https://www.cisecurity.org/benchmark/vmware/) (2018)
 - [ENISA - Security aspects of virtualization](https://www.enisa.europa.eu/publications/security-aspects-of-virtualization) - generic, high-level best practices for virtualization and containers (Feb 2017)
 - [NIST SP 800-125 - Guide to Security for Full Virtualization Technologies](https://www.nist.gov/publications/guide-security-full-virtualization-technologies) - (2011)
 - [ANSSI - Recommandations de sécurité pour les architectures basées sur VMware vSphere ESXi](https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi/) - for VMware 5.5 (2016), in French
