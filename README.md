@@ -141,6 +141,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [DISA STIGs - Virtualisation](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=virtualization) - VMware vSphere 6.0 and 5
 - [ENISA - Security aspects of virtualization](https://www.enisa.europa.eu/publications/security-aspects-of-virtualization) - generic, high-level best practices for virtualization and containers (Feb 2017)
 - [NIST SP 800-125 - Guide to Security for Full Virtualization Technologies](https://www.nist.gov/publications/guide-security-full-virtualization-technologies) - (2011)
+- [NIST SP 800-125A Revision 1 - Security Recommendations for Server-based Hypervisor Platforms](https://csrc.nist.gov/publications/detail/sp/800-125a/rev-1/final) (2018)
+- [NIST SP 800-125B Secure Virtual Network Configuration for Virtual Machine (VM) Protection](https://csrc.nist.gov/publications/detail/sp/800-125b/final) (2016)
 - [ANSSI - Recommandations de sécurité pour les architectures basées sur VMware vSphere ESXi](https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi/) - for VMware 5.5 (2016), in French
 
 ## Containers - Docker
