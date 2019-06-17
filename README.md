@@ -20,6 +20,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Switches](#switches)
     - [Routers](#routers)
     - [IPv6](#ipv6)
+    - [Firewalls](#firewalls)
   - [Virtualization - VMware](#virtualization---vmware)
   - [Containers - Docker](#containers---docker)
   - [Services](#services)
@@ -133,6 +134,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - ERNW - Developing an Enterprise IPv6 Security Strategy [Part 1](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-1-baseline-analysis-of-ipv4-network-security/), [Part 2](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-2-network-isolation-on-the-routing-layer/), [Part 3](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-3-traffic-filtering-in-ipv6-networks-i/), [Part 4](https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-4-traffic-filtering-in-ipv6-networks-ii/) - Network Isolation on the Routing Layer, Traffic Filtering in IPv6 Networks
 - see also IPv6 links under GNU/Linux, Windows and macOS
+
+### Firewalls
+
+- [NIST SP 800-41 Rev 1 - Guidelines on Firewalls and Firewall Policy](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy) (2009)
 
 ## Virtualization - VMware
 
