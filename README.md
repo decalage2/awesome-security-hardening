@@ -164,7 +164,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [NIST IR 7966 - Security of Interactive and Automated Access Management Using Secure Shell (SSH)](https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf)
 - [ANSSI - (Open)SSH secure use recommendations](https://www.ssi.gouv.fr/en/guide/openssh-secure-use-recommendations/)
 - [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
-- [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) - focused on crypto algorithms
+- [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) (2017-2018) - focused on crypto algorithms
+- [stribika - Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) (2015) - some algorithm recommendations might be slightly outdated
 
 ### TLS/SSL
 
