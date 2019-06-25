@@ -50,6 +50,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [GNU/Linux](#gnulinux-1)
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
+    - [SSH](#ssh-1)
     - [Docker](#docker)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
@@ -289,6 +290,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
+
+### SSH
+
+- [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 
 ### Docker
 
