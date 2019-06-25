@@ -54,6 +54,7 @@ This is work in progress: please contribute by sending your suggestions. You may
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-1)
+  - [Password Generators](#password-generators)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
   - [Other Awesome Security Lists](#other-awesome-security-lists)
@@ -307,6 +308,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Hardening Auditor](https://github.com/cottinghamd/HardeningAuditor) - Scripts for comparing Microsoft Windows compliance with the ASD 1709 & Office 2016 Hardening Guides
 - [Windows 10 Initial Setup Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 
+## Password Generators
+
+- [How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line](https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/)
+- [Vitux - 8 Ways to Generate a Random Password on Linux Shell](https://vitux.com/generation-of-a-random-password-on-linux-shell/)
+- [SS64 - Password security and a comparison of Password Generators](https://ss64.com/docs/security.html)
 
 # Books
 
