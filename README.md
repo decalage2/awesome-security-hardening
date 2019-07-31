@@ -286,6 +286,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
 - [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
+- [asecure.cloud - Build a Secure Cloud](https://asecure.cloud/) - A free repository of customizable AWS security configurations and best practices
 
 # Tools
 
