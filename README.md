@@ -52,10 +52,12 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [TLS/SSL](#tlsssl-1)
     - [SSH](#ssh-1)
     - [Docker](#docker)
+    - [Cloud](#cloud-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-1)
     - [TLS/SSL](#tlsssl-2)
+    - [Cloud](#cloud-2)
   - [Password Generators](#password-generators)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -308,6 +310,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0.
 
+### Cloud
+
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+
 ## Tools to apply security hardening
 
 - [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
@@ -327,6 +333,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+
+### Cloud
+
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 
 ## Password Generators
 
