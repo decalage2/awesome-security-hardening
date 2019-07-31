@@ -87,6 +87,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
 - [TecMint - 4 Ways to Disable Root Account in Linux](https://www.tecmint.com/disable-root-login-in-linux/)
 - [ERNW - IPv6 Hardening  Guide  for  Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
+- [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 
 ### Red Hat Enterprise Linux - RHEL
 
@@ -143,6 +144,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Firewalls
 
 - [NIST SP 800-41 Rev 1 - Guidelines on Firewalls and Firewall Policy](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy) (2009)
+- [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 
 ## Virtualization - VMware
 
