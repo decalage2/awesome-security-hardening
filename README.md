@@ -304,6 +304,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Tools to apply security hardening
 
+- [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
+
 ### GNU/Linux
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
