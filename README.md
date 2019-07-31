@@ -12,6 +12,7 @@ This is work in progress: please contribute by sending your suggestions. You may
   - [Hardening Guide Collections](#hardening-guide-collections)
   - [GNU/Linux](#gnulinux)
     - [Red Hat Enterprise Linux - RHEL](#red-hat-enterprise-linux---rhel)
+    - [CentOS](#centos)
     - [SUSE](#suse)
     - [Ubuntu](#ubuntu)
   - [Windows](#windows)
@@ -97,6 +98,10 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [DISA STIGs - Red Hat Enterprise Linux 7](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux) (2019)
 - [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
 - [nixCraft - How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
+
+### CentOS
+
+- [Lisenet - CentOS 7 Server Hardening Guide](https://www.lisenet.com/2017/centos-7-server-hardening-guide/)
 
 ### SUSE
 
