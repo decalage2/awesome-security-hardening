@@ -101,7 +101,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ### CentOS
 
-- [Lisenet - CentOS 7 Server Hardening Guide](https://www.lisenet.com/2017/centos-7-server-hardening-guide/)
+- [Lisenet - CentOS 7 Server Hardening Guide](https://www.lisenet.com/2017/centos-7-server-hardening-guide/) (2017)
+- [HighOn.Coffee - Security Harden CentOS 7](https://highon.coffee/blog/security-harden-centos-7/) (2015)
 
 ### SUSE
 
