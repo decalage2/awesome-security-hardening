@@ -78,6 +78,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
+- [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
 
 ## GNU/Linux
 
