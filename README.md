@@ -44,7 +44,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [NFS](#nfs)
     - [CUPS](#cups)
   - [Authentication - Passwords](#authentication---passwords)
-  - [Hardware - BIOS - UEFI](#hardware---bios---uefi)
+  - [Hardware - CPU - BIOS - UEFI](#hardware---cpu---bios---uefi)
   - [Cloud](#cloud)
 - [Tools](#tools)
   - [Tools to check security hardening](#tools-to-check-security-hardening)
@@ -52,6 +52,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
     - [SSH](#ssh-1)
+    - [Hardware - CPU - BIOS - UEFI](#hardware---cpu---bios---uefi-1)
     - [Docker](#docker)
     - [Cloud](#cloud-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
@@ -283,7 +284,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
 - [NIST SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 
-## Hardware - BIOS - UEFI
+## Hardware - CPU - BIOS - UEFI
 
 - [ANSSI - Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) - recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019)
 - [NSA - Hardware and Firmware Security Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
@@ -321,6 +322,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### SSH
 
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+
+### Hardware - CPU - BIOS - UEFI
+
+- [CHIPSEC: Platform Security Assessment Framework](https://github.com/chipsec/chipsec) - framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components
+- [chipsec-check](https://github.com/ANSSI-FR/chipsec-check) - Tools to generate a Debian Linux distribution with chipsec to test hardware requirements
 
 ### Docker
 
