@@ -262,7 +262,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### NTP
 
-- [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp](https://tools.ietf.org/html/draft-reilly-ntp-bcp) (2019)
+- [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp](https://tools.ietf.org/html/draft-ietf-ntp-bcp-13) (last draft #13 in March 2019)
 - [CMU SEI - Best Practices for NTP Services](https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html)
 - [Linux.com - Arrive On Time With NTP -- Part 2: Security Options](https://www.linux.com/learn/arrive-time-ntp-part-2-security-options)
 - [Linux.com - Arrive On Time With NTP -- Part 3: Secure Setup](https://www.linux.com/learn/2017/2/arrive-time-ntp-part-3-secure-setup)
