@@ -49,6 +49,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Tools](#tools)
   - [Tools to check security hardening](#tools-to-check-security-hardening)
     - [GNU/Linux](#gnulinux-1)
+    - [Windows](#windows-1)
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
     - [SSH](#ssh-1)
@@ -57,7 +58,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Cloud](#cloud-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
-    - [Windows](#windows-1)
+    - [Windows](#windows-2)
     - [TLS/SSL](#tlsssl-2)
     - [Cloud](#cloud-2)
   - [Password Generators](#password-generators)
@@ -310,6 +311,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
 - [Tiger - The Unix security audit and intrusion detection tool](https://www.nongnu.org/tiger/) (might be outdated)
 - [otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
+
+### Windows
+
+- [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides
 
 ### Network Devices
 
