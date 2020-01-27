@@ -200,7 +200,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Web Servers
 
-- [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
+- [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherlist.daniel-ruf.de/)
 
 #### Apache HTTP Server
 
@@ -324,6 +324,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
+- [SSL Decoder](https://ssldecoder.daniel-ruf.de/) - checks the SSL/TLS configuration of a server
 
 ### SSH
 
