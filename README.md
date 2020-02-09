@@ -133,6 +133,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [NSA - BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing disk encryption with BitLocker
 - [NSA - Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding
 - [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing) - work in progress
+- [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [‘Demystifying the Windows Firewall’](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) talk from Ignite 2016
 
 See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
