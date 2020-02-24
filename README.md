@@ -313,6 +313,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
 - [Tiger - The Unix security audit and intrusion detection tool](https://www.nongnu.org/tiger/) (might be outdated)
 - [otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
+- [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 
 ### Windows
 
