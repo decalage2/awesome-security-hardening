@@ -189,6 +189,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) (2017-2018) - focused on crypto algorithms
 - [stribika - Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) (2015) - some algorithm recommendations might be slightly outdated
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
+- [Gravitational - How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly) - how to configure SSH to use certificates and two-factor authentication
 
 ### TLS/SSL
 
