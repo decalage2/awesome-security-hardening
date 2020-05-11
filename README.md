@@ -364,9 +364,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Microsoft Security Compliance Toolkit 1.0](https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10) - set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products
 - [Hardentools](https://github.com/securitywithoutborders/hardentools) - for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability.
 - [Windows 10 Hardening](https://github.com/aghorler/Windows-10-Hardening) - A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible.
-- [Windows 10 Initial Setup Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+- [Disassembler0 Windows 10 Initial Setup Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [Automated-AD-Setup](https://github.com/OneLogicalMyth/Automated-AD-Setup) - A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening
-- [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [mackwage/windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) - Script to perform some hardening of Windows 10
 
 ### TLS/SSL
