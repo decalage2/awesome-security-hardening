@@ -391,9 +391,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 # Other Awesome Lists
 
-(borrowed from [Awesome Security](https://github.com/sbilly/awesome-security))
+- [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ## Other Awesome Security Lists
+
+(borrowed from [Awesome Security](https://github.com/sbilly/awesome-security))
 
 - [Awesome Security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
