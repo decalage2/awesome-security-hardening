@@ -81,7 +81,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 - [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
-- [BSI](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Grundschutz/International/bsi-it-gs-comp-2019.html?nn=409850)
+- [BSI](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Grundschutz/International/bsi-it-gs-comp-2019.html?nn=409850) - English Version of the IT-Grundschutz-Compendium
+
 
 ## GNU/Linux
 
