@@ -123,7 +123,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Microsoft - Windows security baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines)
 - [Microsoft - Windows Server Security | Assurance](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
 - [Microsoft - Windows 10 Enterprise Security](https://docs.microsoft.com/en-us/windows/security/)
-- [BSI/ERNW - Configuration Recommendations for Hardening of Windows 10 Using Built-in Functionalities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Cyber-Security/SiSyPHuS/AP11/Hardening_Guideline.pdf?__blob=publicationFile&v=3) (2021) - focused on Windows 10 LTSC 2019
+- [BSI/ERNW - Configuration Recommendations for Hardening of Windows 10 Using Built-in Functionalities](https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP11/SiSyPHuS_AP11_node.html) (2021) - focused on Windows 10 LTSC 2019
 - [ACSC - Hardening Microsoft Windows 10, version 1709, Workstations](https://www.cyber.gov.au/publications/hardening-microsoft-windows-10-build-1709)
 - [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
