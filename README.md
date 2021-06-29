@@ -183,6 +183,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CIS Docker Benchmarks](https://www.cisecurity.org/benchmark/docker/) - registration required
 - [NIST SP 800-190 - Application Container Security Guide](https://www.nist.gov/publications/application-container-security-guide)
 - [A Practical Introduction to Container Security](https://cloudberry.engineering/article/practical-introduction-container-security/)
+- [ANSSI - Recommandations de sécurité relatives au déploiement de conteneurs Docker](https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker/) (2020), in French
 
 ## Services
 
