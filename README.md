@@ -149,7 +149,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Switches
 
-- [DISA - Layer 2 Switch SRG](http://iasecontent.disa.mil/stigs/zip/U_Layer_2_Switch_V1R3_SRG.zip)
+- [DISA - Layer 2 Switch SRG v2r1](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Layer_2_Switch_V2R1_SRG.zip)
 
 ### Routers
 
