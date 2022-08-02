@@ -74,8 +74,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (registration required)
 - [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
-- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/index.cfm?PAGE=1&itemsQty=ALL)
-- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/what-we-do/cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
+- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/)
+- [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/Cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
 - [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
@@ -135,7 +135,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [NSA - BitLocker Guidance](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing disk encryption with BitLocker
 - [NSA - Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding
 - [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing) - work in progress
-- [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [‘Demystifying the Windows Firewall’](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377) talk from Ignite 2016
+- [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [‘Demystifying the Windows Firewall’](https://www.youtube.com/watch?v=InPiE0EOArs) talk from Ignite 2016
 
 See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
@@ -145,7 +145,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Network Devices
 
-- [NSA - Harden Network Devices](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm) - very short but good summary
+- [NSA - Harden Network Devices](https://media.defense.gov/2020/Aug/18/2002479461/-1/-1/0/HARDENING_NETWORK_DEVICES.PDF) (PDF) - very short but good summary
 
 ### Switches
 
@@ -201,7 +201,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [NIST SP800-52 Rev 2 (2nd draft) - Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft) - 2018, recommends TLS 1.3
-- [Netherlands NCSC - IT Security Guidelines for Transport Layer Security (TLS)](https://www.ncsc.nl/english/current-topics/factsheets/it-security-guidelines-for-transport-layer-security-tls.html) - 2019
+- [Netherlands NCSC - IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1) - 2021
 - [ANSSI - Security Recommendations for TLS](https://www.ssi.gouv.fr/en/guide/security-recommendations-for-tls/) - 2017, does not cover TLS 1.3
 - [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices) - 2017, does not cover TLS 1.3
 - [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
@@ -307,7 +307,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Cloud
 
 - [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
-- [DISA DoD Cloud Computing Security](https://iase.disa.mil/cloud_security/Pages/index.aspx)
+- [DISA DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
 - [asecure.cloud - Build a Secure Cloud](https://asecure.cloud/) - A free repository of customizable AWS security configurations and best practices
 
 # Tools
