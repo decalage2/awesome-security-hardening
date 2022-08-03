@@ -209,7 +209,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Web Servers
 
-- [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherlist.daniel-ruf.de/)
+- [Cipherlist.eu - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherlist.eu/)
 
 #### Apache HTTP Server
 
