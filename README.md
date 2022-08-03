@@ -340,7 +340,6 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### TLS/SSL
 
 - [Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients](https://github.com/ssllabs/research/wiki/Assessment-Tools)
-- [SSL Decoder](https://ssldecoder.daniel-ruf.de/) - checks the SSL/TLS configuration of a server
 
 ### SSH
 
