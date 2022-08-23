@@ -233,13 +233,13 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CIS Microsoft IIS Benchmarks](https://learn.cisecurity.org/benchmarks)
 
 ### Mail Servers
-- [15 Best Practices for Protecting Your Email](https://blog.mdaemon.com/15-best-practices-for-protecting-your-email-with-security-gateway)
+- [MDaemon - 15 Best Practices for Protecting Your Email](https://blog.mdaemon.com/15-best-practices-for-protecting-your-email-with-security-gateway) - Generic recommandations but based on MDaemon Security Gateway for Email Servers
 
 ### FTP Servers
-- [Guide for securing FTP](https://www.jscape.com/blog/the-ultimate-guide-to-hardening-your-secure-file-transfer-server)
+- [JSCAPE - Guide for securing FTP](https://www.jscape.com/blog/the-ultimate-guide-to-hardening-your-secure-file-transfer-server) - Generic recommandations but based on JSCAPE MFT Server
 
 ### Database Servers
-- [SQL Server Hardening](https://www.netwrix.com/sql_server_security_best_practices.html)
+- [Netwrix - MS SQL Server Hardening Best Practices](https://www.netwrix.com/sql_server_security_best_practices.html)
 
 ### Active Directory
 
