@@ -335,6 +335,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Microsoft DSC Environment Analyzer (DSCEA)](https://microsoft.github.io/DSCEA/) - simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan Windows OS based systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration
 - [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides
 - [PingCastle](https://www.pingcastle.com/) - Tool to check the security of Active Directory
+- [MDE-AuditCheck](https://github.com/olafhartong/MDE-AuditCheck) - Tool to check that Windows audit settings are properly configured in the GPO for Microsoft Defender for Endpoint
 
 ### Network Devices
 
