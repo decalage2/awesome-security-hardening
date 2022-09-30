@@ -176,6 +176,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [NIST SP 800-125B Secure Virtual Network Configuration for Virtual Machine (VM) Protection](https://csrc.nist.gov/publications/detail/sp/800-125b/final) (2016)
 - [ANSSI - Recommandations de sécurité pour les architectures basées sur VMware vSphere ESXi](https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi/) - for VMware 5.5 (2016), in French
 - [ANSSI - Problématiques de sécurité associées à la virtualisation des systèmes d’information](https://www.ssi.gouv.fr/administration/guide/problematiques-de-securite-associees-a-la-virtualisation-des-systemes-dinformation/) (2013), in French
+- [VMware - Protecting vSphere From Specialized Malware](https://core.vmware.com/vsphere-esxi-mandiant-malware-persistence) (2022) - see also [Mandiant - Bad VIB(E)s Part Two: Detection and Hardening within ESXi Hypervisors](https://www.mandiant.com/resources/blog/esxi-hypervisors-detection-hardening)
 
 ## Containers - Docker - Kubernetes
 
