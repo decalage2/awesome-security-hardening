@@ -370,6 +370,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to apply security hardening
 
 - [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
+- [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
 ### GNU/Linux
 
