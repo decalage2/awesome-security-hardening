@@ -249,7 +249,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Active Directory
 
 - [Microsoft - Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
-- [ANSSI CERT-FR - Active Directory Security Assessment Checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html) - 2020 (English and French versions)
+- [ANSSI CERT-FR - Active Directory Security Assessment Checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html) - [other version with changelog](https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html) - 2022 (English and French versions)
 - ["Admin Free" Active Directory and Windows, Part 1- Understanding Privileged Groups in AD](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-1-understanding-privileged-groups-in-ad/)
 - ["Admin Free" Active Directory and Windows, Part 2- Protected Accounts and Groups in Active Directory](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-2-protected-accounts-and-groups-in-active-directory/)
 
