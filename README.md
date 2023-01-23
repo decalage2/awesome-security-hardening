@@ -157,6 +157,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### IPv6
 
+- [NSA - IPv6 Security Guidance](https://media.defense.gov/2023/Jan/18/2003145994/-1/-1/0/CSI_IPV6_SECURITY_GUIDANCE.PDF) (Jan 2023)
 - ERNW - Developing an Enterprise IPv6 Security Strategy [Part 1](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-1-baseline-analysis-of-ipv4-network-security/), [Part 2](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-2-network-isolation-on-the-routing-layer/), [Part 3](https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-3-traffic-filtering-in-ipv6-networks-i/), [Part 4](https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-4-traffic-filtering-in-ipv6-networks-ii/) - Network Isolation on the Routing Layer, Traffic Filtering in IPv6 Networks
 - see also IPv6 links under GNU/Linux, Windows and macOS
 
