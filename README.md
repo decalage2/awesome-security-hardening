@@ -305,6 +305,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
 - [NIST SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 - [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+- [ANSSI - Recommendations on multi-factor authentication and passwords](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-lauthentification-multifacteur-et-aux-mots-de-passe/) (2021, French)
 
 ## Hardware - CPU - BIOS - UEFI
 
