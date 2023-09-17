@@ -78,7 +78,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/Cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
 - [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
-- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
+- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications](https://www.cyber.gov.au/about-us/view-all-content/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 - [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
 
