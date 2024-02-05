@@ -73,12 +73,12 @@ This is work in progress: please contribute by sending your suggestions. You may
 ## Hardening Guide Collections
 
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (registration required)
-- [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
-- [NSA Security Configuration Guidance](https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/)
+- [ANSSI Technical and Scientific publications](https://cyber.gouv.fr/en/scientific-publications)
+- [NSA Security Configuration Guidance](https://nsacyber.github.io/publications.html)
 - [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/Cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
 - [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
-- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
+- [Australian Cyber Security Center Publications](https://www.cyber.gov.au/about-us/view-all-content/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 - [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
 
@@ -110,8 +110,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ### SUSE
 
-- [SUSE Linux Enterprise Server 12 SP4 Security Guide](https://www.suse.com/documentation/sles-12/singlehtml/book_security/book_security.html)
-- [SUSE Linux Enterprise Server 12 Security and Hardening Guide](https://www.suse.com/documentation/sles-12/book_hardening/data/book_hardening.html)
+- [SUSE Linux Enterprise Server 12 SP5 Security Guide](https://documentation.suse.com/sles/12-SP5/html/SLES-all/book-hardening.html)
+- [SUSE Linux Enterprise Server 15 SP5 Security and Hardening Guide](https://documentation.suse.com/sles/15-SP5/html/SLES-all/book-security.html)
 
 ### Ubuntu
 
@@ -124,8 +124,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Microsoft - Windows Server Security | Assurance](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
 - [Microsoft - Windows 10 Enterprise Security](https://docs.microsoft.com/en-us/windows/security/)
 - [BSI/ERNW - Configuration Recommendations for Hardening of Windows 10 Using Built-in Functionalities](https://www.bsi.bund.de/EN/Service-Navi/Publikationen/Studien/SiSyPHuS_Win10/SiSyPHuS.html?nn=1022786) (2021) - focused on Windows 10 LTSC 2019
-- [ACSC - Hardening Microsoft Windows 10, version 21H1, Workstations](https://www.cyber.gov.au/acsc/view-all-content/publications/hardening-microsoft-windows-10-version-21h1-workstations)
-- [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
+- [ACSC - Hardening Microsoft Windows 10, version 21H1, Workstations](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/hardening-microsoft-windows-10-version-21h1-workstations)
+- [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-administration/securing-powershell-enterprise)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
 - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
@@ -201,15 +201,16 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) (2017-2018) - focused on crypto algorithms
 - [stribika - Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) (2015) - some algorithm recommendations might be slightly outdated
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
-- [IETF - Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH) draft-ietf-curdle-ssh-kex-sha2-10](https://tools.ietf.org/html/draft-ietf-curdle-ssh-kex-sha2-10) - update to the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security. This document updates RFC 4250.
+- [IETF RFC 9142 - Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH)](https://datatracker.ietf.org/doc/html/rfc9142) - update to the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security. This document updates RFC 4250.
 - [Gravitational - How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly) - how to configure SSH to use certificates and two-factor authentication
 
 ### TLS/SSL
 
-- [NIST SP800-52 Rev 2 (2nd draft) - Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/draft) - 2018, recommends TLS 1.3
-- [Netherlands NCSC - IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1) - 2021
-- [ANSSI - Security Recommendations for TLS](https://www.ssi.gouv.fr/en/guide/security-recommendations-for-tls/) - 2017, does not cover TLS 1.3
-- [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices) - 2017, does not cover TLS 1.3
+- [NIST SP800-52 Rev 2 (final) - Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://csrc.nist.gov/pubs/sp/800/52/r2/final) - 2019, recommends TLS 1.3
+- [Netherlands NCSC - IT Security Guidelines for Transport Layer Security (TLS) - Guide v2.1](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1) - 2021
+- [ANSSI - Security Recommendations for TLS - Guide v1.1](https://cyber.gouv.fr/en/publications/security-recommendations-tls) - 2017, does not cover TLS 1.3
+- [ANSSI - Security Recommendations for TLS - Guide v1.2](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-tls) - 2020, does cover TLS 1.3, but is only available in french
+- [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices) - 2020, does cover TLS 1.3
 - [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
 
@@ -231,7 +232,6 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 #### Eclipse Jetty
 
-- [Eclipse Jetty - Configuring Security](https://www.eclipse.org/jetty/documentation/current/configuring-security.html)
 - [Jetty hardening](https://virgo47.wordpress.com/2015/02/07/jetty-hardening/) (2015)
 
 #### Microsoft IIS
@@ -283,7 +283,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### NTP
 
-- [IETF - Network Time Protocol Best Current Practices draft-ietf-ntp-bcp](https://tools.ietf.org/html/draft-ietf-ntp-bcp-13) (last draft #13 in March 2019)
+- [IETF RFC 8633 - Network Time Protocol Best Current Practices](https://datatracker.ietf.org/doc/html/rfc8633)
 - [CMU SEI - Best Practices for NTP Services](https://insights.sei.cmu.edu/sei_blog/2017/04/best-practices-for-ntp-services.html)
 - [Linux.com - Arrive On Time With NTP -- Part 2: Security Options](https://www.linux.com/learn/arrive-time-ntp-part-2-security-options)
 - [Linux.com - Arrive On Time With NTP -- Part 3: Secure Setup](https://www.linux.com/learn/2017/2/arrive-time-ntp-part-3-secure-setup)
