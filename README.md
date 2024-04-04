@@ -95,6 +95,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [ERNW - IPv6 Hardening  Guide  for  Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
+- [CIRCL TR-83 - Linux Boot Hardening HOWTO](https://www.circl.lu/pub/tr-83/) - How to secure the boot sequence of your Linux based distribution (2024)
 
 ### Red Hat Enterprise Linux - RHEL
 
