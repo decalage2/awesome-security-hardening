@@ -81,6 +81,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [Australian Cyber Security Center Publications](https://www.cyber.gov.au/publications)
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 - [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
+- [Stellastra's TLS Cipher Suite Database](https://stellastra.com/cipher-suite) - A database of TLS cipher suites for web server hardening. 
 
 ## GNU/Linux
 
