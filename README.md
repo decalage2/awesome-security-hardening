@@ -412,6 +412,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 # Books
 
+# Educational Websites
+- [pwn.guide](https://pwn.guide) - A cybersecurity learning website with tutorials, ranging from web to radio frequency hacking, forensics...
+- [HTB Academy](https://academy.hackthebox.com/) - An educational website, with a lot of labs & other interactive content.
+- [TryHackMe](https://tryhackme.com/) - A website with interactive Linux sandboxes & tutorials, mostly talking about Linux commands and web hacking. Recommended for beginners.
+
 # Other Awesome Lists
 
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
