@@ -339,6 +339,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 - [CIS Benchmarks Audit](https://github.com/finalduty/cis_benchmarks_audit) - bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)
+- [Pareto Security](https://paretosecurity.com/apps) - An opensource systray app to automatically audit your Linux desktop for basic security hygiene. Also works on macOS and Windows. 
 
 ### Windows
 
