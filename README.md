@@ -96,6 +96,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [CIRCL TR-83 - Linux Boot Hardening HOWTO](https://www.circl.lu/pub/tr-83/) - How to secure the boot sequence of your Linux based distribution (2024)
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Debian-based security-hardened Linux distribution with pre-configured 100+ security tools, Flipper Zero/Hak5 Pineapple integration, and automated hardening scripts.
 
 ### Red Hat Enterprise Linux - RHEL
 
