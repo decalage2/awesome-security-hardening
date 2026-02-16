@@ -383,6 +383,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### GNU/Linux
 
+- [VPS-Harden](https://github.com/ranjith-src/vps-harden) - idempotent Bash script to harden Debian/Ubuntu servers with dry-run mode, lockout protection, and security scorecard
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
 
