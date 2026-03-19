@@ -385,6 +385,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+- [owLSM](https://github.com/Cybereason-Public/owLSM) - Open source agent that implements a stateful Sigma rules engine focused on monitoring & prevention using eBPF LSM.
 
 ### Windows
 
