@@ -330,6 +330,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to check security hardening
 
 - [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions. 
+- [ReleaseRun](https://releaserun.com/) - Free DevOps tools for dependency health, EOL detection, Kubernetes/Docker/Terraform security scanning, and release tracking. Browser-based, no install.
 
 ### GNU/Linux
 
