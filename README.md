@@ -6,6 +6,7 @@ A collection of awesome security hardening guides, best practices, checklists, b
 This is work in progress: please contribute by sending your suggestions. You may do this by creating [issue tickets](https://github.com/decalage2/awesome-security-hardening/issues) or forking, editing and sending pull requests. You may also send suggestions on Twitter to [@decalage2](https://twitter.com/decalage2), or use https://www.decalage.info/contact
 
 ------
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security hardening assessment, vulnerability scanning, and automated compliance checking. MIT licensed.
 # Table of Contents
 
 - [Security Hardening Guides and Best Practices](#security-hardening-guides-and-best-practices)
