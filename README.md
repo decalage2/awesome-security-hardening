@@ -381,6 +381,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [HackMyIP](https://hackmyip.com) - Free online security toolkit with DNS lookup, IP lookup, DNS/WebRTC leak tests, port scanner, and email breach checker. No registration required.
 
 ## Tools to apply security hardening
 
@@ -414,6 +415,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line](https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/)
 - [Vitux - 8 Ways to Generate a Random Password on Linux Shell](https://vitux.com/generation-of-a-random-password-on-linux-shell/)
 - [SS64 - Password security and a comparison of Password Generators](https://ss64.com/docs/security.html)
+- [HackMyIP Password Generator](https://hackmyip.com/password-generator) - Free online password generator and strength checker with entropy analysis. No registration required.
 
 # Books
 
