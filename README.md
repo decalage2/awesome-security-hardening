@@ -166,7 +166,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Firewalls
 
-- [MS-ISAC & CISA: Understanding and Responding to Distributed Denial-of-Service Attacksy](https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf) (2022)   
+- [MS-ISAC & CISA: Understanding and Responding to Distributed Denial-of-Service Attacks](https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf) (2022)   
 - [MS-ISAC Guide to DDoS Attacks](https://learn.cisecurity.org/ms-isac-guide-to-ddos-attacks) (2023)
 - [NIST: BGP Security and Resilience IPD](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189r1.ipd.pdf) (2025)
 - [NIST SP 800-207 / 800-207A](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207A.pdf ) (2020)
