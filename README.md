@@ -392,6 +392,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+- [VPS-SECURE](https://github.com/rockballslab/vps-secure) - One-command Ubuntu 24.04 LTS hardening script. 15-minute install. Lynis score 86/100 (vs ~55 on a bare VPS). Implements CIS Benchmark ~80%, DISA STIG ~70%. Includes CrowdSec IPS, AIDE file integrity, rkhunter, auditd, UFW, Endlessh honeypot, DNS-over-TLS, and a real-time monitoring dashboard with Telegram alerts.
 
 ### Windows
 
