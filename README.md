@@ -312,6 +312,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [ANSSI - Recommendations on multi-factor authentication and passwords](https://messervices.cyber.gouv.fr/guides/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe) (2021, French)
 
+- [Envault](https://github.com/Coding-Dev-Tools/envault) - CLI tool for managing encrypted .env files with team sharing and version control, preventing secrets from leaking into code repositories.
 ## Hardware - CPU - BIOS - UEFI
 
 - [ANSSI - Hardware security requirements for x86 platforms](https://messervices.cyber.gouv.fr/guides/en-hardware-security-requirements-x86-platforms) - recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019)
@@ -330,6 +331,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to check security hardening
 
 - [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions.
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - CLI tool to detect and track configuration drift across infrastructure, ensuring environments stay hardened and compliant with security baselines.
+- [Deadcode](https://github.com/Coding-Dev-Tools/deadcode) - Static analysis CLI to detect and remove dead code that may harbor unpatched vulnerabilities and increase attack surface.
 
 ### GNU/Linux
 
