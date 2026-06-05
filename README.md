@@ -342,6 +342,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CIS Benchmarks Audit](https://github.com/finalduty/cis_benchmarks_audit) - bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)
 - [CIS Debian Hardening](https://github.com/ovh/debian-cis) - Modular Debian 11/12/13 security hardening scripts based on [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) recommendations.
 - [VPS Security Audit Script](https://github.com/vernu/vps-audit) - A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)
+- [NoID Privacy for Linux](https://github.com/NexusOne23/noid-privacy-linux) - Read-only privacy and security audit for Linux desktops: 420+ checks across 42 sections (browser, DNS, VPN, telemetry, kernel), with optional AI-assisted explanations via --ai. Pure Bash, no dependencies, GPL-3.0.
 
 ### Windows
 
