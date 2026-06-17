@@ -416,6 +416,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line](https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/)
 - [Vitux - 8 Ways to Generate a Random Password on Linux Shell](https://vitux.com/generation-of-a-random-password-on-linux-shell/)
 - [SS64 - Password security and a comparison of Password Generators](https://ss64.com/docs/security.html)
+- [Mini-Tools.uk Password Generator](https://mini-tools.uk/password) - Self-recommending a browser-side strong random password generator with length, uppercase, lowercase, numbers and symbols controls. Useful for quick secure password generation without storing passwords.
 
 # Books
 
