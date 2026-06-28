@@ -383,6 +383,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [DomScan](https://domscan.net) - Domain intelligence with DNS, WHOIS/RDAP, SSL/TLS and email-security (SPF/DKIM/DMARC/DNSSEC) checks, plus an API and MCP server.
 
 ## Tools to apply security hardening
 
