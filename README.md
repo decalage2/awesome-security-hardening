@@ -97,6 +97,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [CIRCL TR-83 - Linux Boot Hardening HOWTO](https://www.circl.lu/pub/tr-83/) - How to secure the boot sequence of your Linux based distribution (2024)
+- [Linux Server Hardening Checklist](https://github.com/enimefl/linux-server-hardening-checklist) - copy-paste checklist for a fresh VPS (SSH keys, sshd config, UFW, Fail2Ban, sysctl, Docker), run in production, with real 33-day uptime and multi-provider latency benchmark data
 
 ### Red Hat Enterprise Linux - RHEL
 
