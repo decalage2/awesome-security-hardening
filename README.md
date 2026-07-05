@@ -391,6 +391,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### GNU/Linux
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous intrusion detection and prevention system with 9 active defense layers (honeypot, behavioral analysis, ML-based anomaly detection, geo-blocking) and ML-DSA-87 post-quantum signed alerts (NIST FIPS 204). Self-hosted, Docker, GPL-3.0.
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
 
 ### Windows
