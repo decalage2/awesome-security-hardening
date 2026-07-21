@@ -184,6 +184,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Containers - Docker - Kubernetes
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [How To Harden Your Docker Containers](https://www.secjuice.com/how-to-harden-docker-containers/)
 - [CIS Docker Benchmarks](https://www.cisecurity.org/benchmark/docker/) - registration required
 - [NIST SP 800-190 - Application Container Security Guide](https://www.nist.gov/publications/application-container-security-guide)
