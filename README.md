@@ -58,6 +58,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Cloud](#cloud-1)
     - [DNS](#dns-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
+    - [Web applications](#web-applications)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-2)
     - [TLS/SSL](#tlsssl-2)
@@ -387,6 +388,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to apply security hardening
 
 - [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
+
+### Web applications
+
+- [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - dependency-free Next.js response-header configuration, report-only CSP example, verification commands, and rollback guidance.
 
 ### GNU/Linux
 
