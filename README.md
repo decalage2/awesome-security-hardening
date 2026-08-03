@@ -383,6 +383,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [Nutilz DMARC Report Analyzer](https://nutilz.com/dmarc-analyzer) - Free tool to parse DMARC aggregate (RUA) report XML/XML.GZ files and see which sending IPs passed or failed SPF/DKIM authentication. 100% client-side, nothing uploaded.
 
 ## Tools to apply security hardening
 
