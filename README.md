@@ -361,6 +361,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [Nutilz Security Headers Checker](https://nutilz.com/security-headers) - Free browser-based HTTP security header scanner: grades HSTS, CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy and Permissions-Policy with an overall A+ to F score, no signup or install required.
 
 ### SSH
 
