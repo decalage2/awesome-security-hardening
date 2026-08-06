@@ -383,6 +383,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [Nutilz DKIM Generator](https://nutilz.com/dkim-generator) - Free browser-based tool to generate RSA (1024/2048/4096-bit) and Ed25519 DKIM keypairs, format the DNS TXT record, and validate selector syntax. No signup, no server-side key storage.
 
 ## Tools to apply security hardening
 
