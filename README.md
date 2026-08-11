@@ -366,6 +366,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [sshd_lint](https://github.com/capitan0n/sshd-lint) - Zero-dependency, offline static analyzer for OpenSSH sshd_config files. Detects insecure directives, deprecated algorithms, and misconfigurations without connecting to a running server.
 
 ### Hardware - CPU - BIOS - UEFI
 
