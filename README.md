@@ -379,6 +379,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Cloud
 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - Read-only Python scripts for auditing AWS, GCP, and Azure security configurations against SOC 2 and ISO 27001 controls.
 
 ### DNS
 
