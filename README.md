@@ -392,6 +392,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+- [linux-utils](https://github.com/albilu/linux-utils) - Automated Debian FDE installer: LUKS1/LUKS2 + LVM + UEFI Secure Boot with custom keys, GRUB hardening, chroot recovery
 
 ### Windows
 
