@@ -50,6 +50,7 @@ This is work in progress: please contribute by sending your suggestions. You may
   - [Tools to check security hardening](#tools-to-check-security-hardening)
     - [GNU/Linux](#gnulinux-1)
     - [Windows](#windows-1)
+    - [macOS](#macos-1)
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
     - [SSH](#ssh-1)
@@ -60,6 +61,7 @@ This is work in progress: please contribute by sending your suggestions. You may
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-2)
+    - [macOS](#macos-2)
     - [TLS/SSL](#tlsssl-2)
     - [Cloud](#cloud-2)
   - [Password Generators](#password-generators)
@@ -351,6 +353,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [PingCastle](https://www.pingcastle.com/) - Tool to check the security of Active Directory
 - [MDE-AuditCheck](https://github.com/olafhartong/MDE-AuditCheck) - Tool to check that Windows audit settings are properly configured in the GPO for Microsoft Defender for Endpoint
 
+### macOS
+
+- [macharden](https://github.com/jankesec/macharden) - Enterprise-grade macOS security audit, posture assessment, and baseline drift engine. Evaluates 54 CIS/NIST/MITRE controls in pure native Zsh/Bash with zero dependencies, generates OASIS SARIF v2.1.0 output, and interactive Liquid Glass HTML5 dashboards.
+
 ### Network Devices
 
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
@@ -403,6 +409,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Automated-AD-Setup](https://github.com/OneLogicalMyth/Automated-AD-Setup) - A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening
 - [mackwage/windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) - Script to perform some hardening of Windows 10
 - [Windows 10/11 Hardening Script by ZephrFish](https://github.com/ZephrFish/WindowsHardeningScript) - PowerShell script to harden Windows 10/11
+
+### macOS
+
+- [macharden](https://github.com/jankesec/macharden) - Enterprise-grade macOS security audit, posture assessment, and automated hardening engine. Features risk-aware interactive remediation (`--fix`), dry-run preview, executable playbook generation, and rollback from backup.
 
 ### TLS/SSL
 
