@@ -321,6 +321,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Cloud
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [NSA Info Sheet: Cloud Security Basics (August 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1)
 - [DISA DoD Cloud Computing Security](https://public.cyber.mil/dccs/)
 - [asecure.cloud - Build a Secure Cloud](https://asecure.cloud/) - A free repository of customizable AWS security configurations and best practices
