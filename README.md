@@ -403,6 +403,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Automated-AD-Setup](https://github.com/OneLogicalMyth/Automated-AD-Setup) - A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening
 - [mackwage/windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) - Script to perform some hardening of Windows 10
 - [Windows 10/11 Hardening Script by ZephrFish](https://github.com/ZephrFish/WindowsHardeningScript) - PowerShell script to harden Windows 10/11
+- [Windows 11 Hardening Kit](https://github.com/Nico1091/kit-blindaje-windows) - PowerShell kit for Windows 11 Home/Pro with nine hardening layers, telemetry reduction that keeps Windows Update working, backups and a 10-minute automatic revert of network changes (noncommercial license)
 
 ### TLS/SSL
 
