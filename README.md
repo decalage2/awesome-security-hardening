@@ -50,6 +50,7 @@ This is work in progress: please contribute by sending your suggestions. You may
   - [Tools to check security hardening](#tools-to-check-security-hardening)
     - [GNU/Linux](#gnulinux-1)
     - [Windows](#windows-1)
+    - [macOS](#macos-1)
     - [Network Devices](#network-devices-1)
     - [TLS/SSL](#tlsssl-1)
     - [SSH](#ssh-1)
@@ -350,6 +351,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides
 - [PingCastle](https://www.pingcastle.com/) - Tool to check the security of Active Directory
 - [MDE-AuditCheck](https://github.com/olafhartong/MDE-AuditCheck) - Tool to check that Windows audit settings are properly configured in the GPO for Microsoft Defender for Endpoint
+
+### macOS
+
+- [Raccoon](https://github.com/thousandflowers/Raccoon) - Bash toolkit that audits macOS hosts against CIS-mapped checks (firewall, FileVault, SIP, Gatekeeper, login items), reports in text, JSON, CSV, Markdown or RTF, and runs the same audit across many Macs over SSH without installing anything on them. Optional `--fix` backs up every change first.
 
 ### Network Devices
 
