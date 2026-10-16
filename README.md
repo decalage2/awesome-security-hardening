@@ -362,13 +362,13 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-- [tls-cert-watchdog](https://github.com/CanuteTheGreat/tls-cert-watchdog) - Free, open-source Python tool that monitors TLS certificate expiry and chain/config issues across a fleet of hosts, with alerting; no signup required.
+- [tls-cert-watchdog](https://github.com/CanuteTheGreat/tls-cert-watchdog) - Free, open-source Python tool that checks TLS certificate expiry, chain verification, legacy protocols and weak ciphers across a list of hosts, with cron/CI-friendly exit codes.
 
 ### SSH
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [sshd-hardening-auditor](https://github.com/CanuteTheGreat/sshd-hardening-auditor) - Free, open-source Python tool that audits an sshd_config against CIS/DISA-style hardening baselines and reports concrete misconfigurations, with no signup required.
+- [sshd-hardening-auditor](https://github.com/CanuteTheGreat/sshd-hardening-auditor) - Free, open-source Python tool that audits an sshd_config (or the live `sshd -T` config) against CIS/NIST-aligned hardening recommendations.
 
 ### Hardware - CPU - BIOS - UEFI
 
