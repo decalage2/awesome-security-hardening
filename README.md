@@ -366,6 +366,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### SSH
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
+- [keyward](https://github.com/gateway-of-last-resort/keyward) - Client-side SSH audit: grades your SSH keys, ~/.ssh/config and file permissions from A to F, with a terminal UI to manage keys and edit the config.
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 
 ### Hardware - CPU - BIOS - UEFI
