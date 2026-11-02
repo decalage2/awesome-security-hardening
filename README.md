@@ -380,6 +380,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Cloud
 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- [runbooklabhq/m365-hardening-kit-free](https://github.com/runbooklabhq/m365-hardening-kit-free) - Read-only PowerShell checks for the first ten Microsoft 365 hardening controls (Entra ID, Exchange Online, Defender for Office 365), with a Jira/CSV backlog to fix them
 
 ### DNS
 
