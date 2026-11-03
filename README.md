@@ -393,6 +393,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
+- [patchgap](https://github.com/hamarshehmhmd/patchgap) - checks Debian/Ubuntu/RHEL/Amazon Linux hosts (locally or over ssh) for hot CVEs whose distro fix is late or not yet booted, applies vetted reversible stopgaps (nftables rule, module block, sshd drop-in), and removes them once patched
 
 ### Windows
 
