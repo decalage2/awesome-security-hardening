@@ -384,6 +384,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [Warnwell](https://warnwell.com/) - Free check of many domains at once. Checks SPF, DKIM, DMARC, DNSSEC, domain expiry and SSL certificates and gives the DNS record that fixes each problem.
 
 ## Tools to apply security hardening
 
