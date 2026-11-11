@@ -56,6 +56,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [Hardware - CPU - BIOS - UEFI](#hardware---cpu---bios---uefi-1)
     - [Docker](#docker)
     - [Cloud](#cloud-1)
+    - [DNS](#dns-1)
   - [Tools to apply security hardening](#tools-to-apply-security-hardening)
     - [GNU/Linux](#gnulinux-2)
     - [Windows](#windows-2)
@@ -73,8 +74,8 @@ This is work in progress: please contribute by sending your suggestions. You may
 ## Hardening Guide Collections
 
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (registration required)
-- [ANSSI Technical and Scientific publications](https://cyber.gouv.fr/en/scientific-publications)
-- [NSA Security Configuration Guidance](https://nsacyber.github.io/publications.html)
+- [ANSSI Guides](https://messervices.cyber.gouv.fr/catalogue#guides?langues=EN)
+- [NSA Cybersecurity Advisories & Guidance](https://www.nsa.gov/Cybersecurity/Cybersecurity-Advisories-Guidance/)
 - [NSA Cybersecurity Resources for Cybersecurity Professionals](https://www.nsa.gov/Cybersecurity/) and [NSA Cybersecurity publications](https://nsacyber.github.io/publications.html)
 - [US DoD DISA Security Technical Implementation Guides (STIGs) and Security Requirements Guides (SRGs)](https://public.cyber.mil/stigs/)
 - [OpenSCAP Security Policies](https://www.open-scap.org/security-policies/)
@@ -84,10 +85,10 @@ This is work in progress: please contribute by sending your suggestions. You may
 
 ## GNU/Linux
 
-- [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
-- [CIS Benchmark for Distribution Independent Linux](https://www.cisecurity.org/benchmark/distribution_independent_linux/)
+- [ANSSI - Configuration recommendations of a GNU/Linux system](https://messervices.cyber.gouv.fr/documents-guides/linux_configuration-en-v2.pdf) - version 2.0, 2022
+- [CIS Benchmark for Distribution Independent Linux](https://ia803101.us.archive.org/view_archive.php?archive=/1/items/cis-benchmarks/CIS_Benchmarks.zip&file=CIS_Benchmarks%2FLinux%2FCIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf) - 2019, archived
 - [trimstray - The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.
-- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide) 
+- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
@@ -95,6 +96,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [ERNW - IPv6 Hardening  Guide  for  Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
+- [CIRCL TR-83 - Linux Boot Hardening HOWTO](https://www.circl.lu/pub/tr-83/) - How to secure the boot sequence of your Linux based distribution (2024)
 
 ### Red Hat Enterprise Linux - RHEL
 
@@ -136,6 +138,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [NSA - Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) - Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding
 - [Windows Defense in Depth Strategies](https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit?usp=sharing) - work in progress
 - [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb) based on Jessica Payne’s [‘Demystifying the Windows Firewall’](https://www.youtube.com/watch?v=InPiE0EOArs) talk from Ignite 2016
+- [ZeroSec - Paving The Way to DA](https://blog.zsec.uk/paving-2-da-wholeset/) - red teaming techniques and how to prevent them
 
 See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
@@ -175,8 +178,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [NIST SP 800-125 - Guide to Security for Full Virtualization Technologies](https://www.nist.gov/publications/guide-security-full-virtualization-technologies) - (2011)
 - [NIST SP 800-125A Revision 1 - Security Recommendations for Server-based Hypervisor Platforms](https://csrc.nist.gov/publications/detail/sp/800-125a/rev-1/final) (2018)
 - [NIST SP 800-125B Secure Virtual Network Configuration for Virtual Machine (VM) Protection](https://csrc.nist.gov/publications/detail/sp/800-125b/final) (2016)
-- [ANSSI - Recommandations de sécurité pour les architectures basées sur VMware vSphere ESXi](https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi/) - for VMware 5.5 (2016), in French
-- [ANSSI - Problématiques de sécurité associées à la virtualisation des systèmes d’information](https://www.ssi.gouv.fr/administration/guide/problematiques-de-securite-associees-a-la-virtualisation-des-systemes-dinformation/) (2013), in French
+- [ANSSI - Recommandations de sécurité pour les architectures basées sur VMware vSphere ESXi](https://messervices.cyber.gouv.fr/guides/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi) - for VMware 5.5 (2016), in French
+- [ANSSI - Securing a VMware infrastructure](https://messervices.cyber.gouv.fr/guides/securing-wmware-infrastructure) (2026)
 - [VMware - Protecting vSphere From Specialized Malware](https://core.vmware.com/vsphere-esxi-mandiant-malware-persistence) (2022) - see also [Mandiant - Bad VIB(E)s Part Two: Detection and Hardening within ESXi Hypervisors](https://www.mandiant.com/resources/blog/esxi-hypervisors-detection-hardening)
 
 ## Containers - Docker - Kubernetes
@@ -185,18 +188,19 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CIS Docker Benchmarks](https://www.cisecurity.org/benchmark/docker/) - registration required
 - [NIST SP 800-190 - Application Container Security Guide](https://www.nist.gov/publications/application-container-security-guide)
 - [A Practical Introduction to Container Security](https://cloudberry.engineering/article/practical-introduction-container-security/)
-- [ANSSI - Recommandations de sécurité relatives au déploiement de conteneurs Docker](https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker/) (2020), in French
+- [ANSSI - Recommandations de sécurité relatives au déploiement de conteneurs Docker](https://messervices.cyber.gouv.fr/guides/recommandations-de-securite-relatives-au-deploiement-de-conteneurs-docker) (2020), in French
 - [Kubernetes Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 - [Kubernetes Role Based Access Control Good Practices](https://kubernetes.io/docs/concepts/security/rbac-good-practices/)
 - [Kubernetes Multi-tenancy](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
 - [Kubernetes blog - A Closer Look at NSA/CISA Kubernetes Hardening Guidance](https://kubernetes.io/blog/2021/10/05/nsa-cisa-kubernetes-hardening-guidance/#building-secure-container-images)
+- [ReynardSec - Docker Security – Step-by-Step Hardening (Docker Hardening)](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/) (2023)
 
 ## Services
 
 ### SSH
 
 - [NIST IR 7966 - Security of Interactive and Automated Access Management Using Secure Shell (SSH)](https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf)
-- [ANSSI - (Open)SSH secure use recommendations](https://www.ssi.gouv.fr/en/guide/openssh-secure-use-recommendations/)
+- [ANSSI - (Open)SSH secure use recommendations](https://messervices.cyber.gouv.fr/guides/en-openssh-secure-use-recommendations)
 - [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
 - [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) (2017-2018) - focused on crypto algorithms
 - [stribika - Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) (2015) - some algorithm recommendations might be slightly outdated
@@ -208,8 +212,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [NIST SP800-52 Rev 2 (final) - Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://csrc.nist.gov/pubs/sp/800/52/r2/final) - 2019, recommends TLS 1.3
 - [Netherlands NCSC - IT Security Guidelines for Transport Layer Security (TLS) - Guide v2.1](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1) - 2021
-- [ANSSI - Security Recommendations for TLS - Guide v1.1](https://cyber.gouv.fr/en/publications/security-recommendations-tls) - 2017, does not cover TLS 1.3
-- [ANSSI - Security Recommendations for TLS - Guide v1.2](https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-tls) - 2020, does cover TLS 1.3, but is only available in french
+- [ANSSI - Security Recommendations for TLS](https://messervices.cyber.gouv.fr/guides/en-security-recommendations-tls) - 2017, does not cover TLS 1.3
+- [ANSSI - Security Recommendations for TLS - Guide v1.2](https://messervices.cyber.gouv.fr/guides/recommandations-de-securite-relatives-tls) - 2020, does cover TLS 1.3, but is only available in French
 - [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices) - 2020, does cover TLS 1.3
 - [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
@@ -253,6 +257,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [ANSSI CERT-FR - Active Directory Security Assessment Checklist](https://www.cert.ssi.gouv.fr/uploads/guide-ad.html) - [other version with changelog](https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html) - 2022 (English and French versions)
 - ["Admin Free" Active Directory and Windows, Part 1- Understanding Privileged Groups in AD](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-1-understanding-privileged-groups-in-ad/)
 - ["Admin Free" Active Directory and Windows, Part 2- Protected Accounts and Groups in Active Directory](https://blogs.technet.microsoft.com/lrobins/2011/06/23/admin-free-active-directory-and-windows-part-2-protected-accounts-and-groups-in-active-directory/)
+- [ASD - Detecting and mitigating Active Directory compromises](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-hardening/detecting-and-mitigating-active-directory-compromises) - 2024
 
 ### ADFS
 
@@ -305,11 +310,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [UK NCSC - Password administration for system owners](https://www.ncsc.gov.uk/collection/passwords)
 - [NIST SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
 - [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
-- [ANSSI - Recommendations on multi-factor authentication and passwords](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-lauthentification-multifacteur-et-aux-mots-de-passe/) (2021, French)
+- [ANSSI - Recommendations on multi-factor authentication and passwords](https://messervices.cyber.gouv.fr/guides/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe) (2021, French)
 
 ## Hardware - CPU - BIOS - UEFI
 
-- [ANSSI - Hardware security requirements for x86 platforms](https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/) - recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019)
+- [ANSSI - Hardware security requirements for x86 platforms](https://messervices.cyber.gouv.fr/guides/en-hardware-security-requirements-x86-platforms) - recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019)
 - [NSA - Hardware and Firmware Security Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
 - [NSA Info Sheet: UEFI Lockdown Quick Guidance (March 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf?v=1)
 - [NSA Tech Report: UEFI Defensive Practices Guidance (July 2017)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf?ver=2018-11-06-074836-090)
@@ -324,7 +329,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Tools to check security hardening
 
-- [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions. 
+- [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions.
 
 ### GNU/Linux
 
@@ -335,6 +340,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 - [CIS Benchmarks Audit](https://github.com/finalduty/cis_benchmarks_audit) - bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)
+- [CIS Debian Hardening](https://github.com/ovh/debian-cis) - Modular Debian 11/12/13 security hardening scripts based on [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) recommendations.
+- [VPS Security Audit Script](https://github.com/vernu/vps-audit) - A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)
 
 ### Windows
 
@@ -347,6 +354,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Network Devices
 
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
+- [cawk](https://github.com/cedricllorens/cawk) - multi-supplier network configuration checker
+- [LYSS](https://github.com/lyss-project/lyss) - read-only, multi-vendor switch configuration audit against an open baseline (Cisco, HPE Aruba, Arista, Juniper, Huawei, MikroTik, SONiC), with evidence and fixes [CAUTION: this tool is brand new and developed with AI, no community feedback yet on its use]
 
 ### TLS/SSL
 
@@ -373,6 +382,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 
+### DNS
+
+- [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+
 ## Tools to apply security hardening
 
 - [DevSec Hardening Framework](https://dev-sec.io/) - a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet
@@ -390,6 +403,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Disassembler0 Windows 10 Initial Setup Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [Automated-AD-Setup](https://github.com/OneLogicalMyth/Automated-AD-Setup) - A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening
 - [mackwage/windows_hardening.cmd](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) - Script to perform some hardening of Windows 10
+- [Windows 10/11 Hardening Script by ZephrFish](https://github.com/ZephrFish/WindowsHardeningScript) - PowerShell script to harden Windows 10/11
 
 ### TLS/SSL
 
@@ -434,4 +448,3 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
-
