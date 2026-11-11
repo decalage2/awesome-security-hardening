@@ -333,6 +333,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### GNU/Linux
 
+- [InnerWarden](https://github.com/InnerWarden/innerwarden) - Autonomous security agent for Linux with real-time threat detection and automated response via eBPF, written in Rust.
 - [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
 - [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - oscap command line tool
 - [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
