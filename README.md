@@ -355,6 +355,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
 - [cawk](https://github.com/cedricllorens/cawk) - multi-supplier network configuration checker
+- [LYSS](https://github.com/lyss-project/lyss) - read-only, multi-vendor switch configuration audit against an open baseline (Cisco, HPE Aruba, Arista, Juniper, Huawei, MikroTik, SONiC), with evidence and fixes [CAUTION: this tool is brand new and developed with AI, no community feedback yet on its use]
 
 ### TLS/SSL
 
