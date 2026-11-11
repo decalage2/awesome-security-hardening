@@ -236,6 +236,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 #### Eclipse Jetty
 
+- [Eclipse Jetty Operations Guide - Jetty Security](https://jetty.org/docs/jetty/12.1/operations-guide/security/configuring-form-size.html)
 - [Jetty hardening](https://virgo47.wordpress.com/2015/02/07/jetty-hardening/) (2015)
 
 #### Microsoft IIS
