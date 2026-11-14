@@ -368,6 +368,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [sshleash](https://github.com/hamarshehmhmd/sshleash) - SSH client-side agent hardening: audits `ForwardAgent` exposure in ssh_config and filters ssh-agent requests from forwarded hosts, sandboxes and AI tools by key, destination host and program.
 
 ### Hardware - CPU - BIOS - UEFI
 
