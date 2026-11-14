@@ -364,6 +364,10 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 
+### Web Servers
+
+- [Glarion free website security check](https://glarion.app/free-website-security-check.html) - online check of a public website's HTTP security headers (CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy), certificate expiry, SPF and DMARC. Free, no account; it reads only what the site already publishes
+
 ### SSH
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
