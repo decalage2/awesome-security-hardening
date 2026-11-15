@@ -393,6 +393,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### GNU/Linux
 
 - [Linux Server Hardener](https://github.com/pratiktri/server_init_harden) - for Debian/Ubuntu (2019)
+- [vps-first-boot](https://github.com/bigdomainhost/vps-first-boot) - first-boot hardening for a fresh Debian 12 / Ubuntu 22.04-24.04 VPS: sudo user with SSH key, UFW, fail2ban, unattended-upgrades, then disables root and password SSH login (2026)
 - [Bastille Linux](http://bastille-linux.sourceforge.net/) - outdated
 
 ### Windows
