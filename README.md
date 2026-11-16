@@ -330,6 +330,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to check security hardening
 
 - [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions.
+- [Openness](https://github.com/s4e-io/openness) - open source agentless credentialed vulnerability scanner for Linux and Windows servers.
 
 ### GNU/Linux
 
