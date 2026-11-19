@@ -350,6 +350,8 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [HardeningAuditor](https://github.com/cottinghamd/HardeningAuditor/) - Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides
 - [PingCastle](https://www.pingcastle.com/) - Tool to check the security of Active Directory
 - [MDE-AuditCheck](https://github.com/olafhartong/MDE-AuditCheck) - Tool to check that Windows audit settings are properly configured in the GPO for Microsoft Defender for Endpoint
+- [Apotrope](https://github.com/hexorcist404/apotrope) - Offline, single-executable Windows security posture auditor; 50+ checks mapped to CIS Microsoft Windows Benchmarks (Win11 v5.0.0 / Win10 v4.0.0), 0–100 score, self-contained HTML report. MIT.
+
 
 ### Network Devices
 
