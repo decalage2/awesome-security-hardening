@@ -216,6 +216,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Qualys SSL Labs - SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices) - 2017, does not cover TLS 1.3
 - [RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List](https://tools.ietf.org/html/rfc7540#appendix-A)
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
+- [TLS Configurator(https://configurator.tlsref.org/)] - Reference guidelines, a configuration generator, and machine-readable data for deploying TLS securely.
 
 ### Web Servers
 
