@@ -330,6 +330,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ## Tools to check security hardening
 
 - [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions.
+- [php2shell-check](https://github.com/hoehyeonlab/php-cve-2026-109618-check) - read-only checker for the PHP RCE CVE-2026-109618/109619 (php2shell); scans the host and every running Docker container, and reports the upload_progress mitigation state.
 
 ### GNU/Linux
 
