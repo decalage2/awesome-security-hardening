@@ -45,6 +45,7 @@ This is work in progress: please contribute by sending your suggestions. You may
     - [CUPS](#cups)
   - [Authentication - Passwords](#authentication---passwords)
   - [Hardware - CPU - BIOS - UEFI](#hardware---cpu---bios---uefi)
+  - [Continuous Integration and Delivery](#continuous-integration-and-delivery)
   - [Cloud](#cloud)
 - [Tools](#tools)
   - [Tools to check security hardening](#tools-to-check-security-hardening)
@@ -318,6 +319,11 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [NSA - Hardware and Firmware Security Guidance](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
 - [NSA Info Sheet: UEFI Lockdown Quick Guidance (March 2018)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf?v=1)
 - [NSA Tech Report: UEFI Defensive Practices Guidance (July 2017)](https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf?ver=2018-11-06-074836-090)
+
+## Continuous Integration and Delivery
+
+- [GitHub Actions Secure Use Reference](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions) - guidance for securing workflows, secrets, third-party actions, and runner execution.
+- [OWASP GitHub Actions Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GitHub_Actions_Security_Cheat_Sheet.html) - practical controls for workflow permissions, dangerous triggers, artifact poisoning, and token exposure.
 
 ## Cloud
 
