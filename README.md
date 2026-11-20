@@ -166,7 +166,12 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ### Firewalls
 
-- [NIST SP 800-41 Rev 1 - Guidelines on Firewalls and Firewall Policy](https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy) (2009)
+- [MS-ISAC & CISA: Understanding and Responding to Distributed Denial-of-Service Attacks](https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf) (2022)   
+- [MS-ISAC Guide to DDoS Attacks](https://learn.cisecurity.org/ms-isac-guide-to-ddos-attacks) (2023)
+- [NIST: BGP Security and Resilience IPD](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-189r1.ipd.pdf) (2025)
+- [NIST SP 800-207 / 800-207A](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207A.pdf ) (2020)
+- [CIS Critical Security Controls Version 8.1](https://etir.unb.br/wp-content/uploads/2024/10/CIS_Controls__v8.1_Guide__2024_06.pdf) (2024)
+- [NIST SP 800-53 Revision 5](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf) (2020)
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 
 ## Virtualization - VMware
