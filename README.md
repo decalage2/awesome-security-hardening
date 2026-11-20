@@ -129,6 +129,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [ACSC - Hardening Microsoft Windows 10, version 21H1, Workstations](https://www.cyber.gov.au/acsc/view-all-content/publications/hardening-microsoft-windows-10-version-21h1-workstations)
 - [ACSC - Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
+- [oudenOS](https://github.com/redpersongpt/oudenOS) - Open source Windows optimizer that blocks 70 telemetry endpoints, disables unnecessary services, and hardens privacy settings with per-action rollback
 - [Microsoft - How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows and Windows Server](https://support.microsoft.com/en-gb/help/2696547/detect-enable-disable-smbv1-smbv2-smbv3-in-windows-and-windows-server)
 - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules) - List of applications or files that can be used by an attacker to circumvent application whitelisting policies
 - [ERNW - IPv6 Hardening Guide for Windows Servers](https://www.ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf)
