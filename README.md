@@ -363,6 +363,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS scanning library.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [InboxShield CLI](https://github.com/zColdWater/inboxshield-cli) - zero-dependency Node.js CLI and GitHub Action for read-only mail/DNS configuration hardening checks across MX, recursive SPF 10-lookup cap, DKIM, DMARC (`p=reject`), MTA-STS, TLS-RPT, BIMI, and DNSBL [CAUTION: this tool is brand new and developed with AI, no community feedback yet on its use]
 
 ### SSH
 
