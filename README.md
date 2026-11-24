@@ -92,6 +92,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
+- [Stenvakt - Linux server security checklist](https://stenvakt.com/guides/linux-server-security-checklist) - for a self-run Ubuntu or Debian VPS: SSH keys, firewall, updates, exposed databases, users and logs (2026)
 - [TecMint - 4 Ways to Disable Root Account in Linux](https://www.tecmint.com/disable-root-login-in-linux/)
 - [ERNW - IPv6 Hardening  Guide  for  Linux Servers](https://www.ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf)
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
@@ -202,6 +203,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [NIST IR 7966 - Security of Interactive and Automated Access Management Using Secure Shell (SSH)](https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf)
 - [ANSSI - (Open)SSH secure use recommendations](https://messervices.cyber.gouv.fr/guides/en-openssh-secure-use-recommendations)
 - [Linux Audit - OpenSSH security and hardening](https://linux-audit.com/audit-and-harden-your-ssh-configuration/)
+- [Stenvakt - Harden SSH without locking yourself out](https://stenvakt.com/guides/ssh-hardening-without-lockout) - keys-only drop-in, sshd -t and sshd -T checks, reload vs restart, and a way back in (2026)
 - [Positron Security SSH Hardening Guides](https://www.sshaudit.com/hardening_guides.html) (2017-2018) - focused on crypto algorithms
 - [stribika - Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) (2015) - some algorithm recommendations might be slightly outdated
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
