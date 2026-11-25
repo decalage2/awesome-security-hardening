@@ -335,6 +335,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### GNU/Linux
 
 - [Lynis](https://cisofy.com/lynis/) - script to check the configuration of Linux hosts
+- [hostguard](https://github.com/TPOALOS/hostguard) - read-only hardening audit for Linux and macOS (76 checks, score, HTML report, drift detection), pure Python with no dependencies [CAUTION: new tool, little community feedback yet]
 - [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - oscap command line tool
 - [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/) - GUI for oscap
 - [Tiger - The Unix security audit and intrusion detection tool](https://www.nongnu.org/tiger/) (might be outdated)
@@ -369,6 +370,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 - [CryptoLyzer](https://github.com/c0r0n3r/cryptolyzer) - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [sshcfg-audit](https://github.com/TPOALOS/sshcfg-audit) - offline audit of sshd_config and ssh_config files (weak ciphers, root login, forwarding, risky Match blocks), pure Python with no dependencies [CAUTION: new tool, little community feedback yet]
 
 ### Hardware - CPU - BIOS - UEFI
 
