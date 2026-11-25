@@ -386,6 +386,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### DNS
 
 - [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS configuration and provides AI-powered fix suggestions.
+- [Postmaster of Puppets](https://postmasterofpuppets.com/) - Free check of a domain's MX, SPF, DKIM and DMARC records that says whether anyone can send email as the domain, with the records that fix it. Open source (MIT).
 
 ## Tools to apply security hardening
 
