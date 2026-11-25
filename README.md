@@ -207,6 +207,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
 - [IETF RFC 9142 - Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH)](https://datatracker.ietf.org/doc/html/rfc9142) - update to the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security. This document updates RFC 4250.
 - [Gravitational - How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly) - how to configure SSH to use certificates and two-factor authentication
+- [NoctHost - How Fast a New VPS Gets Attacked: The First Hour, Measured](https://nocthost.com/blog/new-vps-attacked-first-hour) (2026) - sshd logs and packet captures from three fresh cloud servers: first SSH password guess 4 to 8 minutes after boot, usernames tried, ports scanned, and what to lock down first
 
 ### TLS/SSL
 
