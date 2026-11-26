@@ -221,6 +221,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Web Servers
 
 - [Cipherlist.eu - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherlist.eu/)
+- [VibeShield Next.js Nonce CSP & Security Headers Builder](https://zcoldwater.github.io/vibeshield-cli/nextjs-nonce-csp-builder.html) - free interactive CSP AST scorer and hardening config generator for per-request cryptographic nonce CSP, HSTS preload, COOP/CORP, and Mozilla Observatory headers across Next.js middleware, Vercel, Cloudflare Workers, and Nginx
 
 #### Apache HTTP Server
 
