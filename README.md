@@ -207,6 +207,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Applied Crypto Hardening: bettercrypto.org](https://bettercrypto.org/) - handy reference on how to configure the most common services’ crypto settings (TLS/SSL, PGP, SSH and other cryptographic tools)
 - [IETF RFC 9142 - Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH)](https://datatracker.ietf.org/doc/html/rfc9142) - update to the recommended set of key exchange methods for use in the Secure Shell (SSH) protocol to meet evolving needs for stronger security. This document updates RFC 4250.
 - [Gravitational - How to SSH Properly](https://gravitational.com/blog/how-to-ssh-properly) - how to configure SSH to use certificates and two-factor authentication
+- [grep.tips - SSH hardening: the checklist that actually matters](https://www.grep.tips/articles/ssh-hardening-checklist) (2026) - four sshd_config changes, in order, for an internet-facing server
 
 ### TLS/SSL
 
